@@ -1,0 +1,4 @@
+{
+  "text_error_code": "E_EMPTY_TEXT",
+  "texts": ["abc", "\u4e2d\u6587", "a\u4e2db", "hello"]
+}
